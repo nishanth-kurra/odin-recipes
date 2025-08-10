@@ -31,8 +31,7 @@ To view the recipes, open the `index.html` file in the root folder in your brows
 
 ## Image Credits
 
-- **Bang Bang Salmon** photo by [Allrecipes](https://www.allrecipes.com/recipe/8748369/bang-bang-salmon/)  
-- **Grilled Lobster Tails** photo by [Allrecipes](https://www.allrecipes.com/recipe/36996/grilled-rock-lobsters/)  
-- **Grilled Chicken Salad with Seasonal Fruit** photo by [Allrecipes](https://www.allrecipes.com/recipe/3639764/grilled-chicken-salad-with-seasonal-fruit/)
-
+- **Bang Bang Salmon** photo by Allrecipes/Karen Hibbard
+- **Grilled Lobster Tails** photo by Allrecipes  
+- **Grilled Chicken Salad with Seasonal Fruit** photo by Allrecipes
 ---
