@@ -19,3 +19,20 @@ To view the recipes, open the `index.html` file in the root folder in your brows
     ├── bang-bang-salmon.html
     ├── grilled-lobster-tails.html
     └── grilled-chicken-salad.html
+## Technologies Used
+
+- HTML5
+
+## Next Steps
+
+- Add CSS styling to enhance design and layout.
+- Improve navigation between pages.
+- Incorporate accessibility best practices.
+
+## Image Credits
+
+- **Bang Bang Salmon** photo by [Allrecipes](https://www.allrecipes.com/recipe/8748369/bang-bang-salmon/)  
+- **Grilled Lobster Tails** photo by [Allrecipes](https://www.allrecipes.com/recipe/36996/grilled-rock-lobsters/)  
+- **Grilled Chicken Salad with Seasonal Fruit** photo by [Allrecipes](https://www.allrecipes.com/recipe/3639764/grilled-chicken-salad-with-seasonal-fruit/)
+
+---
